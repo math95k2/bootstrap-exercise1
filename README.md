@@ -1,8 +1,8 @@
 # bootstrap-exercise and starting point
 
-Repo: https://github.com/lasseclaes/bootstrap-exercise1
+Repo: https://github.com/lacjkea/bootstrap-exercise1
 
-Documentation: https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/ - please use it
+Documentation: https://getbootstrap.com/docs/5.0/getting-started/introduction/ - please use it
 
-Thanks to Stefan Grage for sharing slides and exercise content.
+Thanks to Stefan Grage for sharing initial slides and exercise content some time ago.
 https://github.com/stefangrage
